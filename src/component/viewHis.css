@@ -1,0 +1,29 @@
+#showpat2
+{
+    border-radius: 20px;
+    margin-left: 32%;
+    margin-top: 4%;
+    height:470px;
+    width: 55%;
+    background-color: rgb(3, 140, 135);
+}
+
+
+
+#paticonbox2
+{
+    height: 250px;
+    width: 40%;
+    float: left;
+    padding: 4%;
+    border-radius:50px;
+}
+#patientinfobox2{
+    width: 100%;
+}
+#subhead{
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#323D47;
+}

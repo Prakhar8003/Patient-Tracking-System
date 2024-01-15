@@ -1,0 +1,65 @@
+body {
+    
+
+    
+}
+#border{
+    border: 10px solid ;
+    border-color: #445962;
+    width: 50%;
+    height: 100%;
+}
+#logo_home{
+    height: 20%;
+    width: 13%;
+    align-items: center;
+    padding-top: 6%;
+}
+#HeadingGMH{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
+    text-decoration: underline;
+    font-size: 45px;
+    font-weight: bold;
+    color:#445962;
+    padding-top: 1%;
+}
+#login{
+    margin-top: 4%;
+    width: 30%;
+}
+
+#block{
+    margin-bottom: 2%;
+}
+
+#block > input{
+
+    font-size: 20px;
+}
+
+#login > button{
+    margin-top: 5%;
+    width: fit-content;
+    font-size: 20px;
+    background-color:#445962;
+    border:none;
+    
+}
+
+#login > button:hover{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border : 2px solid rgb(88, 88, 88);
+    background-color: #76d5cb;
+    color: #445962
+}
+
+#main{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+}
